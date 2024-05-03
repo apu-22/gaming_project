@@ -1,7 +1,6 @@
 # gaming_project
 This is my first gaming project.
 <br>
-Author-(APU RAYHAN.)
-<br>
-From SUST.
+Author-(APU RAYHAN.)From SUST.
+
 
